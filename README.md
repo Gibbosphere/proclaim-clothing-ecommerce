@@ -12,4 +12,4 @@ So, to confirm my observations about this market gap and implement a protoype e-
 3. Designed website using wireframes
 4. Implemented the website prototype using Wix
 
-The entire implementation process can be found in the document [E-commerce business documentation](Individual Niche E-Commerce Project- INF3014F.pdf). The video walkthroughs: [Part1](Individual Niche E-Commerce Project- INF3014F (Part1).mp4), [Part2](Individual Niche E-Commerce Project- INF3014F (Part2).mp4).   
+The entire implementation process can be found in the document [E-commerce business documentation](Individual%20Niche%20E-Commerce%20Project-%20INF3014F.pdf). The video walkthroughs: [Part1](Individual%20Niche%20E-Commerce%20Project-%20INF3014F%20(Part1).mp4), [Part2](Individual%20Niche%20E-Commerce%20Project-%20INF3014F%20(Part2).mp4).   
